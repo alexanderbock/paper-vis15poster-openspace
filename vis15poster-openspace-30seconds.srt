@@ -1,0 +1,23 @@
+1
+00:00:02,500 --> 00:00:06,000
+We present a system used for the public dissemination of space missions.
+
+2
+00:00:06,250 --> 00:00:09,485
+As two examples, the images from the New Horizons and Rosetta spacecraft
+
+3
+00:00:09,500 --> 00:00:14,800
+are shown projected onto Pluto, Jupiter, and the 67P comet respectively.
+
+4
+00:00:15,000 --> 00:00:17,900
+This technique allows the public to understand the complexity
+
+5
+00:00:18,000 --> 00:00:20,886
+of such missions and the maneuvers performed by the spacecraft.
+
+6
+00:00:21,339 --> 00:00:26,807
+In addition, it provides the public with good context of the acquired images with regard to the imaging target.

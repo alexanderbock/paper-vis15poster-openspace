@@ -1,0 +1,5 @@
+<2.5 seconds in>
+We present a system used for the public dissemination of space missions.
+As two examples, the images from the New Horizons and Rosetta spacecraft are shown projected onto Pluto, Jupiter, and the 67P comet respectively. 
+This technique allows the public to understand the complexity of such missions and the maneuvers performed by the spacecraft.
+In addition, it provides the public with good context of the acquired images with regard to the imaging target.
